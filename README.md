@@ -33,6 +33,13 @@ SQL Server, Entity Framework Core, Git, GitHub, Swagger
 
 ---
 
+## 🤝 Team Projects
+
+- 🦸‍♂️ [Superhero Management System](https://github.com/steven-riaan-piek/SuperheroDatabaseSystem)  
+  Built as part of a team project at Belgium Campus.  
+  Focused on managing superhero data, applying database concepts, and collaborating in a structured development environment.
+---
+
 ## 🧠 Current Project
 
 🚀 Working on a **Virtual Reality (VR) learning platform for South African Sign Language (SASL)**  

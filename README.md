@@ -1,16 +1,53 @@
-## Hi there 👋
+# 👋 Hi, I’m Steven Riaan Piek
 
-<!--
-**steven-riaan-piek/steven-riaan-piek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at Belgium Campus iTversity  
 
-Here are some ideas to get you started:
+🌱 Passionate about backend development, APIs, and building real-world systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Seeking internship / graduate opportunities in software development  
+
+---
+
+## 🚀 Skills
+
+**Programming:**  
+C#, SQL,
+
+**Backend & Development:**  
+ASP.NET Core Web API, REST APIs, Object-Oriented Programming (OOP)  
+
+**Database & Tools:**  
+SQL Server, Entity Framework Core, Git, GitHub, Swagger  
+
+---
+
+## 📂 Projects
+
+- 🧮 [Calculator V1](https://github.com/steven-riaan-piek/calculator-v1)  
+- 🧮 [Calculator V2](https://github.com/steven-riaan-piek/calculator-v2)  
+- 🏦 [Banking App V1](https://github.com/steven-riaan-piek/banking-app-v1)  
+- 🏦 [Banking App V2](https://github.com/steven-riaan-piek/banking-app-v2)  
+- 🏦 [Banking App V3](https://github.com/steven-riaan-piek/banking-app-v3)  
+- 🏦 [Banking App V4](https://github.com/steven-riaan-piek/banking-app-v4)  
+- 🌐 [Banking API](https://github.com/steven-riaan-piek/banking-api)  
+
+---
+
+## 🧠 Current Project
+
+🚀 Working on a **Virtual Reality (VR) learning platform for South African Sign Language (SASL)**  
+- Using Unity and C#  
+- Focused on interactive environments and real-time user experience  
+
+---
+
+## 🌐 Portfolio
+
+🔗 https://steven-riaan-piek.github.io  
+
+---
+
+## 📄 Contact
+
+📧 milkx00@gmail.com  
+💼 https://www.linkedin.com/in/steven-riaan-piek-68740020a  

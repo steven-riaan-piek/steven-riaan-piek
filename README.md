@@ -62,3 +62,8 @@ SQL Server, Entity Framework Core, Git, GitHub, Swagger
 
 📧 milkx00@gmail.com  
 💼 https://www.linkedin.com/in/steven-riaan-piek-68740020a  
+
+---
+## 📄 CV
+
+📄 [Download My CV](./Steven_Riaan_Piek_CV.pdf)

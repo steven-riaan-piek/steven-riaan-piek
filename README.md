@@ -8,16 +8,9 @@
 
 ---
 
-## 🚀 Skills
+## 🚀 Main skills
 
-**Programming:**  
-C#, SQL, JavaScript
-
-**Backend & Development:**  
-ASP.NET Core Web API, REST APIs, Object-Oriented Programming (OOP)  
-
-**Database & Tools:**  
-SQL Server, Entity Framework Core, Git, GitHub, Swagger  
+[![My Skills](https://skillicons.dev/icons?i=cs,java,python,js,html,css,angular,dotnet,mysql,git,github,unity,vscode,visualstudio)](https://skillicons.dev)
 
 ---
 

@@ -8,9 +8,9 @@
 
 ---
 
-## 🚀 Main skills
+## 🛠 Main Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,java,python,js,html,css,angular,dotnet,mysql,git,github,unity,vscode,visualstudio)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,java,python,js,nodejs,html,css,angular,dotnet,mysql,mongodb,git,github,unity,anaconda,vscode,visualstudio)](https://skillicons.dev)
 
 ---
 

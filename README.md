@@ -1,10 +1,3 @@
-# 👋 Hi, I’m Steven Riaan Piek
-
-🎓 Software Engineering Student at Belgium Campus iTversity  
-
-🌱 Passionate about backend development, APIs, and building real-world systems  
-
-💼 Seeking internship / graduate opportunities in software development  
 <!--
     Hey there, I'm Steven Piek!
     Thanks for checking out my GitHub profile.

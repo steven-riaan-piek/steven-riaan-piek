@@ -7,57 +7,6 @@
 💼 Seeking internship / graduate opportunities in software development  
 
 ---
-```json
-{
-  "role": "Software Engineering Student",
-  
-  "languages": [
-    "C#",
-    "Java",
-    "Python",
-    "JavaScript"
-  ],
-
-  "frontend": [
-    "HTML",
-    "CSS",
-    "Angular"
-  ],
-
-  "backend": [
-    ".NET",
-    "ASP.NET Core",
-    "Node.js",
-    "REST APIs"
-  ],
-
-  "databases": [
-    "MySQL",
-    "MongoDB",
-    "SQLite"
-  ],
-
-  "xr_and_game_dev": [
-    "Unity",
-    "XR Interaction Toolkit"
-  ],
-
-  "tools": [
-    "Git",
-    "GitHub",
-    "Visual Studio",
-    "VS Code",
-    "Swagger"
-  ],
-
-  "currently_learning": [
-    "VR Hand Tracking",
-    "Sign Language Recognition",
-    "Power BI"
-  ]
-}
-```
-
 # 💻 Skills
 
 ### 🌐 Front-End Development

@@ -73,12 +73,6 @@
 
 ---
 
-## 🌐 Portfolio
-
-🔗 https://steven-riaan-piek.github.io  
-
----
-
 ## 📄 Contact
 
 📧 milkx00@gmail.com  

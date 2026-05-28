@@ -54,19 +54,6 @@
 ### 🛠️ Development Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio)](https://skillicons.dev)
 ---
-
-## 📂 Projects
-
-- 🧮 [Calculator V1](https://github.com/steven-riaan-piek/calculator-v1)  
-- 🧮 [Calculator V2](https://github.com/steven-riaan-piek/calculator-v2)  
-- 🏦 [Banking App V1](https://github.com/steven-riaan-piek/banking-app-v1)  
-- 🏦 [Banking App V2](https://github.com/steven-riaan-piek/banking-app-v2)  
-- 🏦 [Banking App V3](https://github.com/steven-riaan-piek/banking-app-v3)  
-- 🏦 [Banking App V4](https://github.com/steven-riaan-piek/banking-app-v4)  
-- 🌐 [Banking API](https://github.com/steven-riaan-piek/banking-api)  
-
----
-
 ## 🤝 Team Projects
 
 - 🦸‍♂️ [Superhero Management System](https://github.com/steven-riaan-piek/SuperheroDatabaseSystem)  

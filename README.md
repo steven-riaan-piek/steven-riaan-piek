@@ -62,13 +62,6 @@
 - Focused on interactive environments and real-time user experience  
 
 ---
-
-## 📄 Contact
-
-📧 milkx00@gmail.com  
-💼 https://www.linkedin.com/in/steven-riaan-piek-68740020a  
-
----
 ## 📄 CV
 
 📄 [Download My CV](./Steven_Riaan_Piek_CV.pdf)

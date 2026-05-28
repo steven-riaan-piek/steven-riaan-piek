@@ -54,16 +54,6 @@
 ### 🛠️ Development Tools
 [![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio)](https://skillicons.dev)
 ---
-## 🤝 Team Projects
-
-- 🦸‍♂️ [Superhero Management System](https://github.com/steven-riaan-piek/SuperheroDatabaseSystem)  
-  Built as part of a team project at Belgium Campus.  
-  Focused on managing superhero data, applying database concepts, and collaborating in a structured development environment.
-
-- 💪 [Fitness Tracker Web App](https://github.com/steven-riaan-piek/FitnessTrackerWebApp)  
-  Built as part of a team project.  
-  A multi-page web application that allows users to log workouts, track fitness goals, view statistics, and unlock achievements using HTML, CSS, and JavaScript.
----
 
 ## 🧠 Current Project
 

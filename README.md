@@ -41,8 +41,12 @@
 
 ---
 
-### 🥽 XR & Game Development
-[![XR](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
+### ☁️ Cloud & Microsoft
+[![Cloud](https://skillicons.dev/icons?i=azure)](https://skillicons.dev)
+
+---
+### 📊 Data & Analytics
+[![Data](https://skillicons.dev/icons?i=python,anaconda)](https://skillicons.dev)
 
 ---
 

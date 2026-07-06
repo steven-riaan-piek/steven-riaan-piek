@@ -48,10 +48,7 @@
 ### 📊 Data & Analytics
 [![Data](https://skillicons.dev/icons?i=python,anaconda)](https://skillicons.dev)
 
----
-
-### 📊 Data & Analytics
-[![Data](https://skillicons.dev/icons?i=python,anaconda)](https://skillicons.dev)
+**Libraries & Tools:** Pandas • NumPy • Power BI
 
 ---
 

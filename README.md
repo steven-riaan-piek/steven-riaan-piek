@@ -32,12 +32,12 @@
 ---
 
 ### ⚙️ Back-End Development
-[![Backend](https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,python)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=cs,dotnet,java,nodejs,express,python)](https://skillicons.dev)
 
 ---
 
 ### 🗄️ Databases
-[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=mongodb,sqlite,postgres)](https://skillicons.dev)
 
 ---
 

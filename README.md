@@ -53,7 +53,7 @@
 ---
 
 ### 🛠️ Development Tools
-[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,idea)](https://skillicons.dev)
 ---
 
 ## 🧠 Current Project

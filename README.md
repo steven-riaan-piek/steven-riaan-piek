@@ -22,47 +22,37 @@
 
 # 🌐 Professional Links
 
-<table>
+<table align="center">
 <tr>
+
 <td align="center" width="33%">
 
 ### 📄 CV
 
-<a href="./Steven_Riaan_Piek_CV.pdf">
-    <img src="https://img.icons8.com/color/96/resume.png" width="60"/>
+<a href="./Steven_Piek_CV.pdf">
+    <img src="https://img.icons8.com/color/96/resume.png" width="70"/>
 </a>
-
-**Download My CV**
 
 </td>
 
 <td align="center" width="33%">
-
-### 💼 LinkedIn
 
 <a href="https://www.linkedin.com/in/steven-riaan-piek-68740020a/" target="_blank">
-    <img src="https://img.icons8.com/color/96/linkedin.png" width="60"/>
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="70"/>
 </a>
-
-**Connect with me**
 
 </td>
 
 <td align="center" width="33%">
 
-### 📧 Email
-
 <a href="mailto:milkx00@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" width="60"/>
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="70"/>
 </a>
 
-**milkx00@gmail.com**
-
 </td>
+
 </tr>
 </table>
-
----
 
 # 💻 Skills
 

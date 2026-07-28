@@ -24,7 +24,7 @@
 
 ### 📄 CV
 
-<a href="./Steven_Piek_CV.pdf">
+<a href="./Steven_Riaan_Piek_CV.pdf">
   <img src="https://img.icons8.com/color/48/resume.png" alt="CV" width="48"/>
 </a>
 &nbsp;&nbsp;

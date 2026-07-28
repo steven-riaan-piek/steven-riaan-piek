@@ -117,11 +117,11 @@
 
 ## 🚀 Featured Projects
 
-- 🏦 **Banking API** — ASP.NET Core Web API, Entity Framework Core, SQL Server, Swagger
-- ♟️ **Java Chess Engine** — Object-Oriented Programming, Java Swing
-- 🏫 **University Inventory System** — Java, PostgreSQL, JDBC
-- ⌨️ **FalconType** — JavaScript Typing Speed Test
-- 🌐 **Portfolio Website** — HTML, CSS & JavaScript
+- 🏦 **Banking API** — ASP.NET Core Web API, Entity Framework Core, SQL Server & Swagger
+- ♟️ **Chess Engine** — Java, Object-Oriented Programming & Java Swing
+- 🎮 **Mastermind Deluxe** — Java Swing, GUI Development & Game Logic
+- 🎓 **Student Management System** — Node.js, Express.js, MongoDB & EJS
+- ⌨️ **Type Jet Racer** — JavaScript Typing Speed Game
 
 ---
 
